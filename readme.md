@@ -55,7 +55,7 @@ The model natively captures and preserves local geometric context, achieving hig
 * **Mean Accuracy:** 91.8%
 * **Mean IoU:** 81.9%
 
-![Qualitative Segmentation](assets/best_results.png) 
+![Qualitative Segmentation](assets/Capture d'écran 2026-03-20 140100.png) 
 
 
 ## 📖 Citation & Acknowledgements

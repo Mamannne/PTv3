@@ -30,7 +30,7 @@ This project uses **ShapeNet** for Classification and Part Segmentation.
 
 ### 1. Training
 To train the model on the ShapeNet Part Segmentation dataset using the hybrid backend:
-python train.py --task segmentation --dataset shapenet_parts --backend hybrid --batch_size 8
+python train.py --task segmentation --data_path your_path --backend hybrid --batch_size 8
 
 ### 2. Evaluation
 To evaluate a trained model and generate qualitative segmentation results:

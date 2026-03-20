@@ -13,8 +13,7 @@ By replacing traditional 3D kNN searches with 1D Morton serialization and window
 ## 🛠️ Installation
 
 1. Clone the repository:
-   git clone [https://github.com/mamane/ptv3-reproduction.git](https://github.com/mamannne/ptv3/)
-   cd ptv3-reproduction
+   git clone https://github.com/mamannne/PTv3/
 
 2. Install the required dependencies (Python 3.10+ recommended):
    pip install -r requirements.txt
